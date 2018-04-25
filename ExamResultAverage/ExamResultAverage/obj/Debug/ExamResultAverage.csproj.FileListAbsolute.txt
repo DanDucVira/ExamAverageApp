@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\C#Projects\ExamResultAverage\ExamResultAverage\bin\Debug\ExamResultAverage.exe.config
+C:\Users\User\Desktop\C#Projects\ExamResultAverage\ExamResultAverage\bin\Debug\ExamResultAverage.exe
+C:\Users\User\Desktop\C#Projects\ExamResultAverage\ExamResultAverage\bin\Debug\ExamResultAverage.pdb
+C:\Users\User\Desktop\C#Projects\ExamResultAverage\ExamResultAverage\obj\Debug\ExamResultAverage.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C#Projects\ExamResultAverage\ExamResultAverage\obj\Debug\ExamResultAverage.ExamResults.resources
+C:\Users\User\Desktop\C#Projects\ExamResultAverage\ExamResultAverage\obj\Debug\ExamResultAverage.Properties.Resources.resources
+C:\Users\User\Desktop\C#Projects\ExamResultAverage\ExamResultAverage\obj\Debug\ExamResultAverage.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\C#Projects\ExamResultAverage\ExamResultAverage\obj\Debug\ExamResultAverage.exe
+C:\Users\User\Desktop\C#Projects\ExamResultAverage\ExamResultAverage\obj\Debug\ExamResultAverage.pdb
