@@ -10,5 +10,6 @@ The teacher enters the students name and the results of the exams.
 
 
 Once the information is entered the app calculates the average and says if the student passed or failed.
+The teacher can also click on clear to erase the information.
 
 ![](ExamAverageAppTest.jpg)
